@@ -1,0 +1,13 @@
+#structure
+nn/
+fishAI/
+*.db
+__pycache__/
+referencias/
+sql/
+
+#important files
+*.pt
+*.pkl
+runs/
+*.0
